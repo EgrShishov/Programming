@@ -1,0 +1,17 @@
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\bin\Release\net6.0\_253502_Shishov.exe
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\bin\Release\net6.0\_253502_Shishov.deps.json
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\bin\Release\net6.0\_253502_Shishov.runtimeconfig.json
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\bin\Release\net6.0\_253502_Shishov.dll
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\bin\Release\net6.0\_253502_Shishov.pdb
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\bin\Release\net6.0\AutoMapper.dll
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.csproj.AssemblyReference.cache
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.AssemblyInfoInputs.cache
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.AssemblyInfo.cs
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.csproj.CoreCompileInputs.cache
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.csproj.CopyComplete
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.dll
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\refint\_253502_Shishov.dll
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.pdb
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\_253502_Shishov.genruntimeconfig.cache
+D:\Лабораторные, Гламаздин\Лабораторная 1\_253502_Shishov\_253502_Shishov\obj\Release\net6.0\ref\_253502_Shishov.dll

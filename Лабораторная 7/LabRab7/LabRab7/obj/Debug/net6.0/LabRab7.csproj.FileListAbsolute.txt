@@ -1,0 +1,15 @@
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\bin\Debug\net6.0\LabRab7.exe
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\bin\Debug\net6.0\LabRab7.deps.json
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\bin\Debug\net6.0\LabRab7.runtimeconfig.json
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\bin\Debug\net6.0\LabRab7.dll
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\bin\Debug\net6.0\LabRab7.pdb
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\LabRab7.csproj.AssemblyReference.cache
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\LabRab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\LabRab7.AssemblyInfoInputs.cache
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\LabRab7.AssemblyInfo.cs
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\LabRab7.csproj.CoreCompileInputs.cache
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\LabRab7.dll
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\refint\LabRab7.dll
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\LabRab7.pdb
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\LabRab7.genruntimeconfig.cache
+D:\Лабораторные, Гламаздин\Лабораторная 7\LabRab7\LabRab7\obj\Debug\net6.0\ref\LabRab7.dll

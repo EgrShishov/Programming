@@ -1,0 +1,15 @@
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\bin\Debug\net6.0\LabRab3_3.exe
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\bin\Debug\net6.0\LabRab3_3.deps.json
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\bin\Debug\net6.0\LabRab3_3.runtimeconfig.json
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\bin\Debug\net6.0\LabRab3_3.dll
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\bin\Debug\net6.0\LabRab3_3.pdb
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\LabRab3_3.csproj.AssemblyReference.cache
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\LabRab3_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\LabRab3_3.AssemblyInfoInputs.cache
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\LabRab3_3.AssemblyInfo.cs
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\LabRab3_3.csproj.CoreCompileInputs.cache
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\LabRab3_3.dll
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\refint\LabRab3_3.dll
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\LabRab3_3.pdb
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\LabRab3_3.genruntimeconfig.cache
+D:\Лабораторные, Гламаздин\Лабораторная 3\LabRab3_3\LabRab3_3\obj\Debug\net6.0\ref\LabRab3_3.dll

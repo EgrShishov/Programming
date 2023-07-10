@@ -1,0 +1,17 @@
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\bin\Debug\net6.0\_253502_Shishov.exe
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\bin\Debug\net6.0\_253502_Shishov.deps.json
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\bin\Debug\net6.0\_253502_Shishov.runtimeconfig.json
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\bin\Debug\net6.0\_253502_Shishov.dll
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\bin\Debug\net6.0\_253502_Shishov.pdb
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\bin\Debug\net6.0\AutoMapper.dll
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.csproj.AssemblyReference.cache
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.AssemblyInfoInputs.cache
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.AssemblyInfo.cs
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.csproj.CoreCompileInputs.cache
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.csproj.CopyComplete
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.dll
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\refint\_253502_Shishov.dll
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.pdb
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\_253502_Shishov.genruntimeconfig.cache
+D:\Лабораторные работы по ОАиП\1-ый семестр\exam\_253502_Shishov\_253502_Shishov\obj\Debug\net6.0\ref\_253502_Shishov.dll
